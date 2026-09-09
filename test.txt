@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Bu bir test dosyasidir....
-=======
 Bu bir test dosyasidir.
->>>>>>> 0e4339102cf2c9a8cd688c3092c4881df910a1bf
