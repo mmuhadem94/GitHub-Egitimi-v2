@@ -1,0 +1,2 @@
+Bu bir test dosyası. Değişiklik yapılıyor. 
+Version 1.0
