@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Bu bir test dosyasidir.
-=======
-Bu bir test dosyasidir. Değişilik yapılıyor.
-
->>>>>>> 37815d9b758828a7e828cdf0a1ad559026a77c06
